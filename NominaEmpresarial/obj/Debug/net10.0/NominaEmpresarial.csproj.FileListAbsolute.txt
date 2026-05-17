@@ -1,0 +1,14 @@
+D:\Dropbox\upbtecluis\poo\NominaEmpresarial\NominaEmpresarial\obj\Debug\net10.0\NominaEmpresarial.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dropbox\upbtecluis\poo\NominaEmpresarial\NominaEmpresarial\obj\Debug\net10.0\NominaEmpresarial.AssemblyInfoInputs.cache
+D:\Dropbox\upbtecluis\poo\NominaEmpresarial\NominaEmpresarial\obj\Debug\net10.0\NominaEmpresarial.AssemblyInfo.cs
+D:\Dropbox\upbtecluis\poo\NominaEmpresarial\NominaEmpresarial\obj\Debug\net10.0\NominaEmpresarial.csproj.CoreCompileInputs.cache
+D:\Dropbox\upbtecluis\poo\NominaEmpresarial\NominaEmpresarial\bin\Debug\net10.0\NominaEmpresarial.exe
+D:\Dropbox\upbtecluis\poo\NominaEmpresarial\NominaEmpresarial\bin\Debug\net10.0\NominaEmpresarial.deps.json
+D:\Dropbox\upbtecluis\poo\NominaEmpresarial\NominaEmpresarial\bin\Debug\net10.0\NominaEmpresarial.runtimeconfig.json
+D:\Dropbox\upbtecluis\poo\NominaEmpresarial\NominaEmpresarial\bin\Debug\net10.0\NominaEmpresarial.dll
+D:\Dropbox\upbtecluis\poo\NominaEmpresarial\NominaEmpresarial\bin\Debug\net10.0\NominaEmpresarial.pdb
+D:\Dropbox\upbtecluis\poo\NominaEmpresarial\NominaEmpresarial\obj\Debug\net10.0\NominaEmpresarial.dll
+D:\Dropbox\upbtecluis\poo\NominaEmpresarial\NominaEmpresarial\obj\Debug\net10.0\refint\NominaEmpresarial.dll
+D:\Dropbox\upbtecluis\poo\NominaEmpresarial\NominaEmpresarial\obj\Debug\net10.0\NominaEmpresarial.pdb
+D:\Dropbox\upbtecluis\poo\NominaEmpresarial\NominaEmpresarial\obj\Debug\net10.0\NominaEmpresarial.genruntimeconfig.cache
+D:\Dropbox\upbtecluis\poo\NominaEmpresarial\NominaEmpresarial\obj\Debug\net10.0\ref\NominaEmpresarial.dll

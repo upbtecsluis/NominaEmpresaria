@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Dropbox\\upbtecluis\\poo\\NominaEmpresarial\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{547D472D-267E-62FB-1FD3-C7F42BE96F92}|NominaEmpresarial\\NominaEmpresarial.csproj|d:\\dropbox\\upbtecluis\\poo\\nominaempresarial\\nominaempresarial\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{547D472D-267E-62FB-1FD3-C7F42BE96F92}|NominaEmpresarial\\NominaEmpresarial.csproj|solutionrelative:nominaempresarial\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{547D472D-267E-62FB-1FD3-C7F42BE96F92}|NominaEmpresarial\\NominaEmpresarial.csproj|d:\\dropbox\\upbtecluis\\poo\\nominaempresarial\\nominaempresarial\\clases\\iempleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{547D472D-267E-62FB-1FD3-C7F42BE96F92}|NominaEmpresarial\\NominaEmpresarial.csproj|solutionrelative:nominaempresarial\\clases\\iempleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{547D472D-267E-62FB-1FD3-C7F42BE96F92}|NominaEmpresarial\\NominaEmpresarial.csproj|d:\\dropbox\\upbtecluis\\poo\\nominaempresarial\\nominaempresarial\\clases\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{547D472D-267E-62FB-1FD3-C7F42BE96F92}|NominaEmpresarial\\NominaEmpresarial.csproj|solutionrelative:nominaempresarial\\clases\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{547D472D-267E-62FB-1FD3-C7F42BE96F92}|NominaEmpresarial\\NominaEmpresarial.csproj|d:\\dropbox\\upbtecluis\\poo\\nominaempresarial\\nominaempresarial\\clases\\empleadocomision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{547D472D-267E-62FB-1FD3-C7F42BE96F92}|NominaEmpresarial\\NominaEmpresarial.csproj|solutionrelative:nominaempresarial\\clases\\empleadocomision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{547D472D-267E-62FB-1FD3-C7F42BE96F92}|NominaEmpresarial\\NominaEmpresarial.csproj|d:\\dropbox\\upbtecluis\\poo\\nominaempresarial\\nominaempresarial\\clases\\empleadoporhoras.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{547D472D-267E-62FB-1FD3-C7F42BE96F92}|NominaEmpresarial\\NominaEmpresarial.csproj|solutionrelative:nominaempresarial\\clases\\empleadoporhoras.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{547D472D-267E-62FB-1FD3-C7F42BE96F92}|NominaEmpresarial\\NominaEmpresarial.csproj|d:\\dropbox\\upbtecluis\\poo\\nominaempresarial\\nominaempresarial\\clases\\empleadotiempocompleto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{547D472D-267E-62FB-1FD3-C7F42BE96F92}|NominaEmpresarial\\NominaEmpresarial.csproj|solutionrelative:nominaempresarial\\clases\\empleadotiempocompleto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Dropbox\\upbtecluis\\poo\\NominaEmpresarial\\NominaEmpresarial\\Program.cs",
+              "RelativeDocumentMoniker": "NominaEmpresarial\\Program.cs",
+              "ToolTip": "D:\\Dropbox\\upbtecluis\\poo\\NominaEmpresarial\\NominaEmpresarial\\Program.cs",
+              "RelativeToolTip": "NominaEmpresarial\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACQAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T03:46:28.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IEmpleado.cs",
+              "DocumentMoniker": "D:\\Dropbox\\upbtecluis\\poo\\NominaEmpresarial\\NominaEmpresarial\\Clases\\IEmpleado.cs",
+              "RelativeDocumentMoniker": "NominaEmpresarial\\Clases\\IEmpleado.cs",
+              "ToolTip": "D:\\Dropbox\\upbtecluis\\poo\\NominaEmpresarial\\NominaEmpresarial\\Clases\\IEmpleado.cs",
+              "RelativeToolTip": "NominaEmpresarial\\Clases\\IEmpleado.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T03:46:25.118Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmpleadoTiempoCompleto.cs",
+              "DocumentMoniker": "D:\\Dropbox\\upbtecluis\\poo\\NominaEmpresarial\\NominaEmpresarial\\Clases\\EmpleadoTiempoCompleto.cs",
+              "RelativeDocumentMoniker": "NominaEmpresarial\\Clases\\EmpleadoTiempoCompleto.cs",
+              "ToolTip": "D:\\Dropbox\\upbtecluis\\poo\\NominaEmpresarial\\NominaEmpresarial\\Clases\\EmpleadoTiempoCompleto.cs",
+              "RelativeToolTip": "NominaEmpresarial\\Clases\\EmpleadoTiempoCompleto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T03:46:22.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmpleadoPorHoras.cs",
+              "DocumentMoniker": "D:\\Dropbox\\upbtecluis\\poo\\NominaEmpresarial\\NominaEmpresarial\\Clases\\EmpleadoPorHoras.cs",
+              "RelativeDocumentMoniker": "NominaEmpresarial\\Clases\\EmpleadoPorHoras.cs",
+              "ToolTip": "D:\\Dropbox\\upbtecluis\\poo\\NominaEmpresarial\\NominaEmpresarial\\Clases\\EmpleadoPorHoras.cs",
+              "RelativeToolTip": "NominaEmpresarial\\Clases\\EmpleadoPorHoras.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAwwEQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T03:46:19.991Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmpleadoComision.cs",
+              "DocumentMoniker": "D:\\Dropbox\\upbtecluis\\poo\\NominaEmpresarial\\NominaEmpresarial\\Clases\\EmpleadoComision.cs",
+              "RelativeDocumentMoniker": "NominaEmpresarial\\Clases\\EmpleadoComision.cs",
+              "ToolTip": "D:\\Dropbox\\upbtecluis\\poo\\NominaEmpresarial\\NominaEmpresarial\\Clases\\EmpleadoComision.cs",
+              "RelativeToolTip": "NominaEmpresarial\\Clases\\EmpleadoComision.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwCoAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T03:46:13.342Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Empleado.cs",
+              "DocumentMoniker": "D:\\Dropbox\\upbtecluis\\poo\\NominaEmpresarial\\NominaEmpresarial\\Clases\\Empleado.cs",
+              "RelativeDocumentMoniker": "NominaEmpresarial\\Clases\\Empleado.cs",
+              "ToolTip": "D:\\Dropbox\\upbtecluis\\poo\\NominaEmpresarial\\NominaEmpresarial\\Clases\\Empleado.cs",
+              "RelativeToolTip": "NominaEmpresarial\\Clases\\Empleado.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T03:45:28.988Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
