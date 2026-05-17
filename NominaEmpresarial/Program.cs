@@ -16,7 +16,7 @@ IEmpleado emp2 = new EmpleadoPorHoras(
 
 
 IEmpleado emp3 = new EmpleadoComision(
-    nombre: "Leslie Silva",
+    nombre: "Leslie Silva Uribe",
     id: "EMP-003",
     salario: 2_000_000,
     ventas: 5_000_000
